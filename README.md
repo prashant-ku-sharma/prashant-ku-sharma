@@ -1,4 +1,4 @@
-<h3>Hello Devs, I am Prashant Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+<h3>Hello Devs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I am Prashant Sharma</h3>
 <hr>
 
 <h3>📖 About Me</h3>
