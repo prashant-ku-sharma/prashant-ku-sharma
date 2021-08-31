@@ -4,8 +4,13 @@
 <h3>📖 About Me</h3>
 I am an Aspiring Full Stack Web Developer currently pursuing  web development course in MERN Stack at Masai School.Along with passion in web development,I love to creatively solve Data Structures and Algorithm problems. 
 <p></p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/prashantsharma142500/count.svg" />
+</p>
 🌱 I am currently learning more about web development by creating and developing responsive websites.<br>
-👯 I am open to work in Full Stack Web Development.
+👯 I am open to work in Full Stack Web Development.<br>
+👀 I’m interested in Coding, Plantation and Stock Market.
 <hr>
 
 ### 👩🏻‍💻  Tech Stack
