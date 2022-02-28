@@ -2,15 +2,21 @@
 <hr>
 
 <h3>📖 About Me</h3>
-I am an Aspiring Full Stack Web Developer currently pursuing  web development course in MERN Stack at Masai School.Along with passion in web development,I love to creatively solve Data Structures and Algorithm problems. 
+<p></p>
+<p>
+  An aspiring Full Stack Web Developer in the field of Computer Science, passionate about coding and developing web applications with the technical knowledge I gained so far.
+
+Currently learning Javascript technologies across the MERN stack and consistently solving Data Structures & Algorithms based problems brings a lot of creative satisfaction to me.
+
+I am fond of reading self-development books📚 because I believe they bring positive vibes, inner happiness and help in gaining the richest knowledge for oneself.
+
+I am a voracious learner with the never-ending spirit of learning new things, and always try to find how there's more to learn!.
+</p>
 <p></p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/prashantsharma142500/count.svg" />
 </p>
-🌱 I am currently learning more about web development by creating and developing responsive websites.<br>
-👯 I am open to work in Full Stack Web Development.<br>
-👀 I’m interested in Coding, Plantation and Stock Market.
 <hr>
 
 ### 👩🏻‍💻  Tech Stack
@@ -18,8 +24,8 @@ I am an Aspiring Full Stack Web Developer currently pursuing  web development co
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<!-- <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
-<!-- <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> -->
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 <!-- <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> -->
 <!-- <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/> -->
 <!-- <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> -->
