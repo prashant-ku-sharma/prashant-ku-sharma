@@ -47,4 +47,3 @@ I am a voracious learner with the never-ending spirit of learning new things, an
 <a href="https://www.linkedin.com/in/prashant-kumar-sharma-"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://prashantsharmatws.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a><br>&nbsp;
   
-<p align="center"><br><img align="center" src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/200w.webp?cid=ecf05e47mjqrv4aqur3god1t9o3qp5ew1ls4wbomnlfoif6u&rid=200w.webp&ct=g" alt="gif"/><p/>
