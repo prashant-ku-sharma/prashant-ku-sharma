@@ -38,8 +38,8 @@ I am a voracious learner with the never-ending spirit of learning new things, an
  
 ## Let's Connect 
 <p align="center">  
-<a href="https://prashant-sharma-tws.github.io/"><img src="https://img.shields.io/badge/Portfolio-PS-blue" alt="Portfolio" height="30px" /></a>&nbsp;
+<a href="https://prashant-ku-sharma.github.io/"><img src="https://img.shields.io/badge/Portfolio-PS-blue" alt="Portfolio" height="30px" /></a>&nbsp;
 <a href="mailto:ps142500@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/prashant-kumar-sharma-"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;  
-<a href="https://twitter.com/prashantdevtws"><img src="https://img.shields.io/badge/twitter-PS-blue" alt="Portfolio" height="30px" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/prashant-ku-sharma/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;  
+<a href="https://x.com/prashant_shirma"><img src="https://img.shields.io/badge/twitter-PS-blue" alt="Portfolio" height="30px" /></a>&nbsp;
 </p>
